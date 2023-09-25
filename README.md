@@ -1,6 +1,7 @@
-![alt text][logo]
-[logo]:https://crdroid.net/img/logo.png "crDroid Android"
-im try to Santoni Devices, but this is for all devices supported treble project.
+"crDroid for All Devices"
+
+
+im try with Santoni Devices, but this is for all devices supported treble project.
 im not modify this source.
 special thanks for Nazim ((https://github.com/naz664/)
 
