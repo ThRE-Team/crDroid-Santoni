@@ -2,8 +2,15 @@
 
 
 im try with Santoni Devices, but this is for all devices supported treble project.
+
+
 im not modify this source.
-special thanks for Nazim ((https://github.com/naz664/)
+
+
+special thanks for Nazim
+
+
+(https://github.com/naz664/)
 
 
 ### To get started with building crDroid GSI,
