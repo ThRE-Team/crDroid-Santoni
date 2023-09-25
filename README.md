@@ -1,6 +1,9 @@
 ![alt text][logo]
-
 [logo]:https://crdroid.net/img/logo.png "crDroid Android"
+im try to Santoni Devices, but this is for all devices supported treble project.
+im not modify this source.
+special thanks for Nazim ((https://github.com/naz664/)
+
 
 ### To get started with building crDroid GSI,
 you'll need to get familiar with [Git and Repo](https://source.android.com/source/using-repo.html) as well as [How to build a GSI](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI%3F).
